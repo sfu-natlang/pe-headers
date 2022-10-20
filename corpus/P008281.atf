@@ -1,0 +1,33 @@
+&P008281 = MDP 17, 083 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. |M327+M365| M136~k , 
+# header 
+2. M124 M032 , [...] 
+$ n lines broken 
+3'. M376 , 3(N01) 
+4'. M149~a2 , 1(N34) 4(N14) [...] 
+$ n lines broken 
+5'. [...] , [...] 6(N01) 
+6'. M145~f , 1(N14) 6(N01) 
+7'. M374~a , 1(N14) [...] 
+$ n lines broken 
+8'. M152~f , 1(N14) 6(N01) 
+9'. |M351+1(N14)| , 2(N14) [...] 
+$ rest broken 
+@reverse 
+@column 1 
+1. M341 , 
+2. M124 M032 , 1(N14) 5(N01) 
+3. M376 , [...] 
+$ n lines broken 
+4'. |M351+1(N14)| , 1(N14) 4(N01) 
+5'. M145~f , 6(N01) 
+6'. M205~d# , [...] 
+$ n lines broken 
+7'. M374~a , 6(N01) 
+8'. M152~g , 6(N01) 
+9'. M007~d# , 3(N01)# 
+$ rest broken 
+

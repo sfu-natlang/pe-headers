@@ -1,0 +1,15 @@
+&P008998 = MDP 26, 310 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M111~a#? M081 M354 M112~i M297 , 1(N39B) 
+4. M304 M219 , 1(N24) 1(N30C) 1(N30D) 
+5. M297 M288 , 1(N01) 
+6. M297~b , 1(N39B) 
+7. M061 M297 , 1(N30C) 
+@reverse 
+@column 1 
+1. M297~b , 1(N01) 2(N39B) 1(N24) 2(N30C)# [1(N30D)] 
+

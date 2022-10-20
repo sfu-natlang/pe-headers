@@ -1,0 +1,143 @@
+&P008294 = MDP 17, 096 + 325 + 380 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. |M362+M005|# M207~b , 3(N01)# 
+#tr.en: belonging to x 3 nanny goats 
+1.a. M367 , 2(N01) 
+#tr.en: 2 billy goats 
+1.b. M346 , 4(N01) 
+#tr.en: 4 female sheep 
+1.d. M362~a , 1(N01) 
+#tr.en: 1 female kid 
+1.f. M346~a , 1(N01) 
+#tr.en: 1 female lamb 
+2. |M362+M059~d| M312~a# , 6(N01)# 
+#tr.en: belonging to x 6 nanny goats 
+2.a. M367# , 4(N01)# 
+#tr.en: 4 billy goats 
+2.b. M346 , 1(N01) 
+#tr.en: 1 female sheep 
+2.d. M362~a , 2(N14) 3(N01) 
+#tr.en: 23 female kids 
+2.e. M367~a , 7(N01) 
+#tr.en: 7 male kids 
+2.f. M346~a , 1(N14) 
+#tr.en: 10 female lambs 
+2.g. M006@g , 3(N01)# 
+#tr.en: 3 male lambs 
+3. |M362+M384~a| , 4(N14) 7(N01) 
+#tr.en: belonging to x 47 nanny goats 
+3.a. M367 , 8(N01) 
+#tr.en: 8 billy goats 
+3.b. M346 , 6(N01) 
+#tr.en: 6 female sheep 
+3.c. M006 , 6(N01) 
+#tr.en: 6 rams 
+3.d. M362~a# , 1(N14) 
+#tr.en: 10 female kids 
+3.e. M367~a , 2(N01) 
+#tr.en: male kids 
+3.f. M346~a , 1(N01) 
+#tr.en: 1 female lamb 
+3.g. M006@g , 1(N01) 
+#tr.en: 1 male lamb 
+4. |M362+M059| |M001+M379~c| , 4(N14) 
+#tr.en: belonging to x 40 nanny goats 
+4.a. M367 , 9(N01)# 
+#tr.en: 9 billy goats 
+4.b. [M346] , 2(N01)# 
+#tr.en: 2 female lambs 
+4.c. M006 , 3(N01)# 
+#tr.en: 3 rams 
+4.d. M362~a , 6(N01) 
+#tr.en: 6 female kids 
+4.e. M367~a , 1(N01) 
+#tr.en: 1 male kid 
+4.f. M346~a , 3(N01) 
+#tr.en: 3 female lambs 
+4.g. M006@g , 1(N01) 
+#tr.en: 1 male lamb 
+5. |M362+M383~c| , 1(N14) 
+#tr.en: belonging to x 10 nanny goats 
+5.a. [M367] , [...] 
+#tr.en: x billy goats 
+5.b. M346# , 6(N01)# 
+#tr.en: 6 female sheep 
+5.c. M006 , 2(N01) 
+#tr.en: 2 rams 
+5.d. M362~a# , 2(N14)# 1(N01)# 
+#tr.en: 21 female kids 
+5.e. [M367~a] , [...] 
+#tr.en: x male kids 
+5.f. [M346~a] , [...] 
+#tr.en: x female lambs 
+5.g. [M006@g] , [...] 
+#tr.en: x male lambs 
+$ 2 lines broken 
+@reverse 
+@column 1 
+$ 2 lines broken 
+1.f. [...] , 1(N01)# 
+#tr.en: 1 x 
+1.g. M006@g#? , 1(N01) 
+#tr.en: 1 male lamb 
+2. |M362+M158|# , 1(N14) [...] 
+#tr.en: belonging to x +10 nanny goats 
+2.a. M367# , [...] 
+#tr.en: x billy goats 
+$ n lines broken 
+2.d. M362~a#? , 4(N01) 
+#tr.en: 4 female kids 
+3. |M362+M026~h| , 5(N01) 
+#tr.en: belonging to x 5 nanny goats 
+3.a. M367 , 2(N01) 
+#tr.en: 2 billy goats 
+3.b. M346 , 1(N01) 
+#tr.en: 1 female sheep 
+3.d. M362~a#? , 6(N01)# 
+#tr.en: 6 female kids 
+3.e. [M367~a] , 1(N01) 
+#tr.en: 1 male kid 
+3.f. M346~a# , 1(N01) 
+#tr.en: 1 female lamb 
+3.g. M006@g# , 1(N01) 
+#tr.en: 1 male lamb 
+4. M351~c# M362 , 3(N01) 
+#tr.en: belonging to x 3 nanny goats 
+4.a. M367 , 1(N01) 
+#tr.en: 1 billy goat 
+4.d. M362~a , 1(N14) 1(N01) 
+#tr.en: 11 female kids 
+4.e. M367~a# , 2(N01)# 
+#tr.en: 2 male kids 
+4.f. [M346~a] , 2(N01)# 
+#tr.en: 2 female lambs 
+4.g. M006@g , 1(N01) 
+#tr.en: 1 male lamb 
+5. |M362+M244?|# , 3(N14) 3(N01) 
+#tr.en: belonging to x 33 nanny goats 
+5.a. M367 , 6(N01) 
+#tr.en: 6 billy goats 
+5.b. M346#? , 1(N14) 4(N01)# 
+#tr.en: 14 female sheep 
+5.c. [M006?] , 2(N01)#? 
+#tr.en: 6 rams? 
+6. |M362+M099~b|# , 2(N14) 1(N01) 
+#tr.en: belonging to x 21 nanny goats 
+6.a. M367# , 3(N01) 
+#tr.en: 3 billy goats 
+6.b. M346 , 1(N14) 9(N01) 
+#tr.en: 19 female lambs 
+6.c. [M006?] , [...] 
+#tr.en: x rams? 
+6.d. M362~a# , 6(N14)# 
+#tr.en: 6 female kids 
+#from MDP 17, 380! 
+6.e?. [M367~a?] , 4(N01)# 
+#tr.en: 4 female kids? 
+6.f. M346~a , 1(N14) 6(N01) 
+#tr.en: 16 female lamb 
+6.g. M006@g , 7(N01) 
+#tr.en: 7 male lambs 
+

@@ -1,0 +1,17 @@
+&P008010 = MDP 06, 210 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M124 M338 M009 M288 , 3(N01) [...] 
+3. M320~f M320# , 2(N39B) 1(N24) 
+4. M218 M175 , 2(N01) 
+5. M387~ee [...] , [...] 
+6. M124 M009 M139 M295~a , 2(N39B) 1(N24) 
+@reverse 
+@column 1 
+1. [...] , [...] 1(N45)# 6(N14) 1(N24) 
+#erasure after 6(N14) perhaps 3(N39B) 2(N30C)? or 1(N24) 
+2. |M218+M288|# M288 , 1(N45) 3(N14) 
+

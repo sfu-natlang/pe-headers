@@ -1,0 +1,15 @@
+&P008883 = MDP 26, 195 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M105 , 
+# header 
+2. M051~b M354 , 6(N01) 
+3. x , 3(N01) 
+4. x , 2(N01) 
+5. M003~b , 2(N01) 
+6. M041~g M175 , 1(N14) 
+@reverse 
+@column 1 
+1. M354 , 2(N14)? 6(N01) 
+

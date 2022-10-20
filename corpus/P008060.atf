@@ -1,0 +1,39 @@
+&P008060 = MDP 06, 267 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M124 M371 M009 M288 , 2(N01) 4(N39B) 
+$ n lines broken 
+3'. M352~o M097~h , 1(N34) 
+4'. M260~1# M096 , 3(N01) 4(N39B) 
+$ n lines broken 
+5'. [M124?] M318~a1 M009 M371 , 2(N01) 3(N39B) 
+6'. M332~c M004 M338#? [...] , [...] 
+7'. M124 M386~a M024! M371 , 1(N01) 3(N39B) 1(N24) 
+$ n lines broken 
+8'. [...] , [...] 3(N39B) 1(N24) 
+9'. M131 M099 M371 , 1(N01)# [...] 
+$ rest broken 
+@reverse 
+@column 1 
+$ beginning broken 
+1'. [...] , [...] 2(N01)# 
+$ n lines broken 
+2'. [...] M281~f , 1(N01) 3(N39B) 1(N24) 
+3'. M073~a# x , 1(N01) [...] 
+$ n lines broken 
+4'. [...] , [...] 3(N39B)# 1(N24) 
+5'. M318~a1# M009 M371 M288 , 4(N01) 4(N39B) 
+$ n lines broken 
+6'. M175 , 2(N01) 
+7'. |M296+M296|#? M066~a#? , 2(N39B) 1(N24) 
+8'. M131# [...] , [...] 
+$ n lines broken 
+9'. [...] , [...] 2(N39B)# 1(N24)# 
+10'. [...] M325 , 1(N01) 
+11'. M263 M338# [...] , [...] 
+$ n lines broken 
+12'. [...] M263# M218# M101# [...] , [...] 
+

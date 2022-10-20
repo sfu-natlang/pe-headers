@@ -1,0 +1,17 @@
+&P008216 = MDP 17, 018 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. |M377+M320+M377| , 
+# header 
+2. M328~c M388 M297 M218 M056~f# M288 , 4(N01) 
+#erasure between M328~b and M388 
+3. M009 M102~k# M096~3# , 1(N14) 
+4. M377 M032 M048~d M096~3# , 1(N14) 
+5. M004 M102~k M096 , 1(N14) 
+6. M122# M242~b M096~3# M388 M057~b M387 M218 , 1(N14) 
+7. M387#? M099 M218 M338~m M066# M388 M387# M250~ba M387#? M128#? M320#? M096#? , 1(N14) 
+@reverse 
+@column 1 
+1. M056~f M288 , 5(N14) 4(N01) 
+

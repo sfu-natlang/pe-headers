@@ -1,0 +1,22 @@
+&P009213 = MDP 26S, 4776 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M005~a# M213~b M346 , 2(N01) 
+3. M005~a x [...] , [2(N01)] 
+$ n lines broken 
+4'. [...] , 2(N01) 
+5'. M249~c M001 , 2(N01) 
+6'. M131# M388# [...] , 2(N01) 
+$ n lines broken 
+7'. [...] M388 M260~1 M260~1 , 2(N01) 
+8'. M075~ab [...] 
+$ rest broken 
+@reverse 
+@column 1 
+1. [M346] , [...] 2(N01) 
+@top 
+1. 2(N01) 
+

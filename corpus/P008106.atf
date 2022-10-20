@@ -1,0 +1,21 @@
+&P008106 = MDP 06, 317 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M005~a M257~d M348 M346 , 9(N14) 8(N01) 
+#tr.en: 98 female sheep belonging to x 
+3. M263~1 M295~da x , 5(N14) 1(N01) 
+#tr.en: 51 belonging to x 
+4. |M218+M320|# x M001 , 9(N14) 
+#tr.en: 90 belonging to x 
+5. M009#? [...] , [3(N14) 4(N01)] 
+#tr.en: 34 belonging to x 
+6. M136~a#? M005~a , 2(N14) 
+#tr.en: 20 belonging to x 
+@reverse 
+@column 1 
+1. M346 , 2(N23) 9(N14) 3(N01) 
+#tr.en: (total) 293 female sheep 
+

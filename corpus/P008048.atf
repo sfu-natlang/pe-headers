@@ -1,0 +1,20 @@
+&P008048 = MDP 06, 253 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. |M327+M342|#? , 
+# header 
+2. |M153+M106~a|# M066 M242~b M096 M387~eh M004 M346 , 5(N01) 
+#tr.en: 5 female sheep belonging to x 
+3. M249~m M332~d#? M057~a2# M346 , 2(N01) 
+#tr.en: 2 female sheep belonging to x 
+4. M370 M346 , 1(N01) 
+#tr.en: 1 female sheep belonging to x 
+5. |M218~d+M288|#? x M218 M346 , 2(N01) 
+#tr.en: 2 female sheep belonging to x 
+# x M218 only visible on copy 
+@reverse 
+@column 1 
+1. M346 , 1(N14) 
+#tr.en: (total) 10 female sheep 
+

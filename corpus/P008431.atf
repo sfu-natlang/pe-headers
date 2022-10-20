@@ -1,0 +1,43 @@
+&P008431 = MDP 17, 233 
+#atf: lang qpc 
+@tablet 
+@obverse 
+$ beginning broken 
+1'. [...] M036# M297# , 1(N24) 
+2'. M387~a M263~b1 , 1(N01)# 
+$ n lines broken 
+3'. [...] , 1(N39B)# 
+4'. M066 M352~o M315 M297 , 1(N39B) 
+5'. M288 , 1(N39B)#? 
+$ n lines broken 
+6'. [...] M288# , 1(N39B) 
+7'. M347 M377~e M218 M288 , 2(N30C) 
+$ n lines broken 
+8'. [...] , [...] 1(N30C)# 
+9'. |M351+M380~b| M288 , 1(N39B) 
+10'. |M106+M288| M224 [...] , [...] 
+$ n lines broken 
+11'. [...] M297# , 1(N30C) 
+12'. M004 |M106+M288| M297 [...] , [...] 
+$ n lines broken 
+13'. [...] M297# 1(N30C)# 
+14'. [...] , [...] 
+@reverse 
+@column 1 
+$ beginning broken 
+1. [...] x M218 M297# , [...] 
+2. |M351+1(N14)|# M288# , [...] 
+$ n lines broken 
+3. [...] M297 , 1(N30C) 
+4. M259#? M318~a M297 , 1(N24) 1(N30C) 
+$ n lines broken 
+5. [...] , [...] 1(N30C)# 
+6. |M175+M380|# M218# M263 , 1(N01) 
+7. M305 M002 M263 , [...] 
+$ n lines broken 
+8. [...] , 2(N39B)# 
+9. M153 M288 
+#tr.en: (subscript) 
+@column 2 
+1. [...] , 5(N01)# 4(N39B) 1(N24)# 
+

@@ -1,0 +1,23 @@
+&P008012 = MDP 06, 212 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157~a , 
+# header 
+2. M343 M388 M004 |M218+M101|? M371 M346 , 2(N14) 2(N01) 
+#tr.en: 22 female sheep belonging to x 
+3. M139# M004 |M218+M101?|# M371 , 9(N01) 
+#tr.en: 9 belonging to x 
+4. M352~c M346 , 1(N14) 8(N01)# 
+#tr.en: 18 female sheep belonging to x 
+5. M057~a1 M346 , 1(N14) 6(N01) 
+#tr.en: 16 female sheep belonging to x 
+@reverse 
+@column 1 
+1. M346 , 6(N14) 5(N01) 
+#tr.en: (total) 65 female sheep 
+$ seal 1 
+# seal 1 = PES0094 
+@top 
+1. M139 , 
+

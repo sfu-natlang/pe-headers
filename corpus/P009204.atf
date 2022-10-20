@@ -1,0 +1,22 @@
+&P009204 = MDP 26S, 4766 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M384~d M387~aa M271~g , 2(N01) 
+3. M263~b2 , 2(N01) 
+4. M297 , 2(N39B) 2(N30C@b) 
+# derived sze form made by framing the notation with M002 
+5. M251~h M297 , 1(N01) 2(N30C) 
+6. M111~a# M323~i M388 M145~a M371 M036 , 4(N01) 
+7. M111~a# M388 |M296+M296| M096 M036 , 5(N01) 
+8. M323~i M265~g , 3(N01) 
+@reverse 
+@column 1 
+1. M036 , 6(N01) 
+2. M111~a M388 |M218+M320| M262 M218 M263~b1 , 1(N01) 
+3. M036# , 5(N01) 
+@column 2 
+4. M297 , 2(N01) 2(N39B) 1(N24) 2(N30C) 1(N30D) 1(N39C) 
+

@@ -1,0 +1,19 @@
+&P008141 = MDP 06, 359 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M319 |M059+M038~a| M301~ea M002 , 1(N14) 1(N01)# 2(N39B)# 
+2B. M262# 
+#line inbetween 02. and 03. 
+3. M301~eb M002 , 1(N14) 3(N01) 2(N39B) 
+4. M262~1 M297 , 2(N01) 2(N39B)#? 
+5. M297~b M002 , 1(N14) 
+6. M218 
+#tr.en: (subscript) 
+$ (scribal design 1 = SDxxxx) 
+@reverse 
+@column 1 
+1. [x M301~e? M002?] , 4(N14)# 4(N39B)# 
+

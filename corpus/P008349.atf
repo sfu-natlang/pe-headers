@@ -1,0 +1,35 @@
+&P008349 = MDP 17, 151 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. |M136+M365| , 
+# header 
+2. M125 x M359 M367 , 4(N01) 
+#tr.en: 4 billy goats beloning to x 
+3. M269~c , 1(N08A) 
+#tr.en: 1 unit of ghee 
+4. M106~a# , 2(N30C) 
+#tr.en: 1 unit of dry cheese 
+5. M009 , 1(N01) 
+6. M292~f# , 1(N01) 
+7. M102~d , 2(N01) 
+8. M246~m , 1(N01) 
+9. M209~c M388 M080~a x M367# , 4(N01) 
+#tr.en: 4 billy goats beloning to x 
+10. M269~c , 1(N08)#? 
+#tr.en: 1 unit of ghee 
+11. M106~a# , 2(N30C) 
+#tr.en: 1 unit of dry cheese 
+12. M009 , 1(N01) 
+13. M292~f# , [1(N01)] 
+14. [M102~d] , 2(N01) 
+15. M246~m , 1(N01) 
+@reverse 
+@column 1 
+1. [...] , [...] 
+2. [...] , 1(N01)# 
+3. M009 , 2(N01) 
+4. M292~f , 2(N01) 
+5. M102~d , 4(N01) 
+6. M246~m , 2(N01) 
+

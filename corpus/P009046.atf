@@ -1,0 +1,20 @@
+&P009046 = MDP 26, 358 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M134~c , 
+# header 
+2. M146~d M124 , 1(N14) 5(N01) 
+$ n lines broken 
+3'. [...] , 2(N14) 3(N01) 
+4'. x , 3(N39B) 
+$ n lines broken 
+5'. M059~g , 1(N01) 
+6'. M324~d , 1(N01)#? 
+@reverse 
+@column 1 
+1. [...] , 4(N14) 2(N01) 1(N24) 
+2. [...] , 1(N01) 
+3. M374~c , 1(N01) 
+4. M288 , 1(N14) 1(N01) 2(N39B) 1(N24) 
+

@@ -1,0 +1,21 @@
+&P008037 = MDP 06, 240 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M377 M124 M048~c M009 M371 M296~a# [...] , [...] 
+# M296~a is perhaps |M296+(M348+M004)| 
+3. [...] M380~b M371 , 1(N39B) 
+4. M347 M110 M371 , 1(N39B) 
+5. M024~1 M035 M066#? M263~1 M221~1 , 1(N39B) 
+6. |M157~a+M131~a| 
+#tr.en: (subscript) 
+$ seal 1 
+# seal 1 = PES 0265 
+@reverse 
+@column 1 
+$ column blank 
+$ seal 1 
+# seal 1 = PES 0265 
+

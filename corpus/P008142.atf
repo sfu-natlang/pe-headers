@@ -1,0 +1,22 @@
+&P008142 = MDP 06, 360 
+#atf: lang qpc 
+@tablet 
+@obverse 
+1. M157 , 
+# header 
+2. M038~a M029~a M149~a M388 M387 , 7(N01) 
+3. M038~e M387 , 3(N01) 
+4. M500 M145 M387 , 2(N01) 
+5. M046~a M387 , 2(N01) 
+6. M136~c M029~b M387 , 2(N14) 
+7. |M157+M131| M374~c , 1(N01) 
+@reverse 
+@column 1 
+1. M374~c , 2(N01) 
+2. M387 , 4(N01) 
+3. M149~a , 5(N01) 
+@top 
+1. 1(N34) 
+$ seal 1 ? 
+# seal 1 = PESxxxx 
+
